@@ -7,22 +7,6 @@ A comprehensive full-stack application for coordinating disaster relief efforts,
 ![React Native](https://img.shields.io/badge/react--native-0.81.5-blue.svg)
 ![MySQL](https://img.shields.io/badge/mysql-8.0-orange.svg)
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Prerequisites](#prerequisites)
-- [Quick Start](#quick-start)
-- [Project Structure](#project-structure)
-- [Database Setup](#database-setup)
-- [Running the Application](#running-the-application)
-- [User Roles & Permissions](#user-roles--permissions)
-- [Application Flow](#application-flow)
-- [API Documentation](#api-documentation)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🎯 Overview
 
@@ -117,10 +101,6 @@ Before you begin, ensure you have the following installed:
 
 ### 1. Clone the Repository
 
-```bash
-git clone https://github.com/yourusername/disaster-relief-management.git
-cd disaster-relief-management
-```
 
 ### 2. Database Setup
 
@@ -475,31 +455,15 @@ JWT_SECRET=your_secret_key
 EXPO_PUBLIC_API_URL=http://localhost:3000/api
 ```
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the ISC License.
 
 ## 👨‍💻 Authors
 
-- Your Name - Initial work
-
-## 🙏 Acknowledgments
-
-- Built for disaster relief coordination
-- Designed to help communities during emergencies
-- Open source for maximum accessibility
+- Abdul Basit - Initial work
 
 ## 📞 Support
 
-For support, email your-email@example.com or open an issue in the repository.
+For support, email basit16003@gmail.com or open an issue in the repository.
 
 ---
 
